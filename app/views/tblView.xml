@@ -1,0 +1,37 @@
+<Alloy>
+	<Window class="container" id="win">
+		<TableView  id="table">
+			<TableViewRow backgroundColor="white" height="50" onClick="btnClicktable" >
+				<ImageView left="0" image="/Gear2.jpg" height="50" width="50"></ImageView>
+				<Label color="black">Gear 2</Label>
+				<ImageView right="0" image="/more-than.png" height="50" width="50"></ImageView>		
+			</TableViewRow>
+			
+			<TableViewRow backgroundColor="white" height="50" onClick="btnClicktable"  >
+				<ImageView left="0" image="/Gear2Neo.jpg" height="50" width="50"></ImageView>
+				<Label color="black" >Gear 2 Neo</Label>
+				<ImageView right="0" image="/more-than.png" height="50" width="50"></ImageView>		
+			</TableViewRow>
+			
+			<TableViewRow backgroundColor="white" height="50" onClick="btnClicktable" >
+				<ImageView left="0" image="/Gear_Fit.jpg" height="50" width="50"></ImageView>
+				<Label color="black">Gear Fit</Label>
+				<ImageView right="0" image="/more-than.png" height="50" width="50"></ImageView>		
+			</TableViewRow>
+			
+			<TableViewRow backgroundColor="white" height="50" onClick="btnClicktable" >
+				<ImageView left="0" image="/Gear_Live.png" height="50" width="50"></ImageView>
+				<Label color="black">Gear Live</Label>
+				<ImageView right="0" image="/more-than.png" height="50" width="50"></ImageView>		
+			</TableViewRow>
+			
+			<TableViewRow backgroundColor="white" height="50" onClick="btnClicktable" >
+				<ImageView left="0" image="/Gear_3s.png" height="50" width="50"></ImageView>
+				<Label color="black">Gear 3/S</Label>
+				<ImageView right="0" image="/more-than.png" height="50" width="50"></ImageView>		
+			</TableViewRow>
+			
+			
+		</TableView>
+	</Window>
+</Alloy>

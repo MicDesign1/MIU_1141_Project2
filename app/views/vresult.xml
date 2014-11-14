@@ -1,0 +1,36 @@
+<Alloy>
+	<Window class="container" title="Gear Chooser" backgroundColor="white" >
+		<ScrollView  contentWidth="auto"
+	  contentHeight="auto"
+	  showVerticalScrollIndicator= "true"
+	  height="90%"
+	  top="0">
+		<Label id="title" top="0" color="black"></Label>
+
+		<ImageView height="100" width="100" top="30" id="image"></ImageView>
+		
+		<Label id="price" top="90" left="10" color="black"></Label>
+		
+		<Label id="functionality" top="140" left="10" color="black"></Label>
+		
+		<Label id="batlife" top="280" left="10" color="black"></Label>
+		
+		<Label id="os" top="340" left="10" color="black"></Label>
+		
+		<Label id="memory" top="390" left="10" color="black"></Label>
+		
+		<Label id="resolution" top="440" left="10" color="black"></Label>
+		
+		<Label id="ppower" top="500" left="10" color="black"></Label>
+		
+		<Label id="weight" top="550" left="10" color="black"></Label>
+		
+		<Label id="customization" top="600" left="10" color="black"></Label>
+		
+		<Label id="compatibility" top="680" left="10" color="black"></Label>
+		
+		<Label id="review" top="800" left="10" color="black">Review Links:</Label>
+		
+		</ScrollView>
+	</Window>
+</Alloy>

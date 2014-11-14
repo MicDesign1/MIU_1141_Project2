@@ -1,0 +1,14 @@
+<Alloy>
+	<NavigationWindow id="nav" >
+	<Window class="container" title="Samsung Gear Chooser">
+		<Label  top="10" left="10" >Samsung</Label>
+		
+		<Label  top="50" left="10" >Wearables Information</Label>
+		
+		<Label id="label" top="100" left="10" ></Label>
+							
+		
+		<Button  title="Start" onClick="btnClick" ></Button>
+	</Window>
+	</NavigationWindow>
+</Alloy>
