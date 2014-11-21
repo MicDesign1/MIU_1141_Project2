@@ -29,7 +29,7 @@
 		
 		<Label id="compatibility" top="680" left="10" color="black"></Label>
 		
-		<Label id="review" top="800" left="10" color="black">Review Links:</Label>
+		<Label id="review" top="800" left="10" color="black"></Label>
 		
 		</ScrollView>
 	</Window>
